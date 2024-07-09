@@ -1,0 +1,11 @@
+clock-show-weekday=true
+color-scheme='prefer-dark'
+cursor-theme='Bibata-Modern-Ice'
+document-font-name='GoMono Nerd Font 11'
+font-antialiasing='grayscale'
+font-hinting='slight'
+font-name='Hack Nerd Font 11'
+gtk-theme='Orchis'
+icon-theme='Reversal-red'
+locate-pointer=false
+monospace-font-name='Hack Nerd Font Mono 10'
