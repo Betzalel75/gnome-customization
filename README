@@ -1,7 +1,6 @@
-
 # Gnome Customization
 
-Ma configuration personnalisée pour GNOME.
+Ma configuration personnalisée pour GNOME. Executez le script apres avoir intaller toutes les dépendances.
 
 ## Aperçu
 
@@ -51,5 +50,3 @@ Vous pouvez installer les extensions suivantes via le Gestionnaire d'extensions 
 ## Licence
 
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
----
